@@ -7,7 +7,7 @@ ENV LOG_LEVEL=error
 ENV APP_ID=1234
 ENV WEBHOOK_SECRET=development
 ENV WEBHOOK_PROXY_URL=https://localhost:3000/
-ENV PRIVATE_KEY="someprivatestring"
+ENV PRIVATE_KEY="b0e8d82ce055a6ed07ee5a2b7a4caeb3cc840c97"
 
 # see https://github.com/nodejs/docker-node/blob/e3ec2111af089e31321e76641697e154b3b6a6c3/docs/BestPractices.md#global-npm-dependencies
 ENV NPM_CONFIG_PREFIX=/home/node/.npm-global
